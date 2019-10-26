@@ -1,0 +1,13 @@
+[package]
+authors = ["David Pedersen <david.pdrsn@gmail.com>"]
+categories = ["web-programming"]
+edition = "2018"
+keywords = ["web", "graphql", "juniper"]
+license = "MIT"
+name = "juniper-lazy-loading"
+readme = "README.md"
+version = "0.0.1"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
